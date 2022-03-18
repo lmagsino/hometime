@@ -1,24 +1,17 @@
-# README
+# Hometime API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Technologies
+* Ruby on Rails
+* PostgreSQL
 
-Things you may want to cover:
+Software Requirements
+* rails 5.1.7
+* ruby 2.6.4
+* postgresql 14.2
 
-* Ruby version
+Setup
+* Install all the software requirements
+* Create database (hometime_development and hometime_test)
+* Run `rails db:migrate` to create database structure
+* Run `rails s` to start the application
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
