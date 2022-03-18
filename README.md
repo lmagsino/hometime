@@ -11,7 +11,7 @@ Software Requirements
 
 Setup
 * Install all the software requirements
-* Create database (hometime_development and hometime_test)
+* Create database (`hometime_development` and `hometime_test`)
 * Run `rails db:migrate` to create database structure
 * Run `rails s` to start the application
 
